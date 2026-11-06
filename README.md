@@ -10,6 +10,7 @@
   <a href="https://masakuwa.jp/en/label-manager/"><b>Label Manager</b></a> ·
   <a href="https://masakuwa.jp/">masakuwa.jp</a> ·
   <a href="https://www.youtube.com/channel/UCmQWeIvgreL6BhQVXPp_5Sw">YouTube</a> ·
+  <a href="https://youtu.be/d2XCikN_Fug?si=YhQVCJvEHL3kDK8k">ヤマコレ！深山ダンディズム</a>.
   <a href="https://x.com/MasaKuwaInsects">X @MasaKuwaInsects</a>
 </p>
 
